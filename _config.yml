@@ -1,1 +1,8 @@
 theme: jekyll-theme-modernist
+#Any buzzword skills you want to include
+skills:
+ - Java
+ - Selenium
+ - Android
+ - Php
+  
